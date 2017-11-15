@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+---
+title: Projekt dustmap
+feature_text: ""
+feature_image: "/assets/images/header-pexels-photo-459670.jpeg"
+---
 
-You can use the [editor on GitHub](https://github.com/dustmap/dustmap.org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Was ist die dustmap?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Das Projekt dustmap hat es sich zum Ziel gesetzt, eine einfache und kostengünstige Messstation zu entwickeln, mit der Feinstaub und andere Umweltdaten gemessen werden können. [Weiterlesen]({{ site.baseurl }}uber-dustmap)
 
-### Markdown
+{% include button.html text="Sensor registrieren :round_pushpin:" link="sensor-registrieren" %}{% include button.html text="dustmap auf Github" icon="github" link="https://github.com/dustmap" color="#666" %}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Mitmachen
 
-```markdown
-Syntax highlighted code block
+Die dustmap befindet sich noch im Aufbau. Egal ob es die Messstation am eigenen Balkon, Programmieren von Arduinos oder das Interpretieren der Messwerte ist, wir freuen uns über Interessenten.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dustmap/dustmap.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+{% include button.html text="Schick uns eine E-Mail!" icon="email" link="mailto:team@dustmap.org" %}{% include button.html text="dustmap auf facebook" icon="facebook" link="https://facebook.com/Dustmap-535186873182840/" color="#3b5998" %}

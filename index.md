@@ -15,3 +15,6 @@ Das Projekt dustmap hat es sich zum Ziel gesetzt, eine einfache und kostengünst
 Die dustmap befindet sich noch im Aufbau. Egal ob es die Messstation am eigenen Balkon, Programmieren von Arduinos oder das Interpretieren der Messwerte ist, wir freuen uns über Interessenten.
 
 {% include button.html text="Schick uns eine E-Mail!" icon="email" link="mailto:team@dustmap.org" %}{% include button.html text="dustmap auf facebook" icon="facebook" link="https://facebook.com/Dustmap-535186873182840/" color="#3b5998" %}
+
+
+This open source project has been generously supported by [![netidee](https://www.netidee.at/themes/Netidee/images/netidee-logo-color.svg)](https://www.netidee.at).
